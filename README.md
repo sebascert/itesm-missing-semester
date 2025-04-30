@@ -10,7 +10,7 @@ The project provides many resources in various fields of CS, featuring:
 - [Lectures](lectures/README.md). Notes from our in campus meetings.
 - [Code Challenges](code_challenges/README.md). Solutions and explanations to
 coding problems for pages like leetcode, hackerank, codewars, etc.
-- [Resources](resources). Compilation of learning resources in various topics.
+- [Resources](resources/README.md). Compilation of learning resources.
     - [CS Theory](resources/cs_theory/README.md). Foundational CS topics.
     - [Languages](resources/langs/README.md). Programming Languages.
     - [Technologies](resources/frameworks/README.md). Frameworks.
