@@ -27,9 +27,22 @@ documentation (on special cases like the offial docs being obscure, or
 difficult to obtain, ignore this advice), as their listing can be redundant in
 most cases.
 
+- Resources must be grouped based on the start-range of their difficulty (e.g.,
+introductory in introductory-advanced). The finish-range (e.g., advanced in
+introductory-advanced) is not used for grouping.
+
+- Format difficultity ranges for resources as follows:
+    - Use this difficultity levels:
+        - **introductory**: Introductory material, meant for beginners.
+        - **intermediate**: Depends on an previous a grasp of the subject.
+        - **advanced**: Most advanced material within the subject.
+    - Difficultity range: `least-greatest`
+    - Do not format as `same_level-same_level` leave just `level`. Example:
+    avoid `introductory-introductory`, instead write just `introductory`.
+
 - Format resource listing as follows:
 ```md
-### Name [type of resource (example book, course, etc)]
+### Name [type of resource | difficultity range]
 
 Reference to resource (link or instructions to access it).
 
