@@ -4,6 +4,19 @@ Thank you for taking the time to consider contributing to the project. If you
 found a bug or problem please upload an [issue](#issues). If you want to upload
 resources, or solve an open issue please upload a [pull request](#pull-request).
 
+## Devtools
+
+Devtools can be installed with the `devtools/install.sh` script for bash
+environments, for windows check the installation guides for each tool, the
+versions used are in `devtools/install.sh`.
+
+- [dprint](https://dprint.dev/). Formats markdown sources and code snippets
+  inside them.
+  - [installation guide](https://dprint.dev/install/)
+- [lychee](https://github.com/lycheeverse/lychee). Validates links in markdown
+  sources.
+  - [installation guide](https://github.com/lycheeverse/lychee?tab=readme-ov-file#installation)
+
 ## Issues
 
 Please follow this steps for formatting and validating your issue, this will
@@ -25,6 +38,8 @@ Please follow this steps for your pull request to be merged into the project:
 2. Be consistent with the formatting in the project.
 3. The git history must be clean and [commits](#commits) must be consistent
    with the project style.
+4. Make sure to validate the sources modified by using the scripts
+   `devtools/format.sh` and `devtools/format.sh` before uploading your PR.
 
 ## Commits
 
