@@ -7,7 +7,7 @@ Science education. Inspired by [mit-missing-semester](https://missing.csail.mit.
 
 The project provides many resources in various fields of CS, featuring:
 
-- [Lectures](lectures/README.md). Notes from our in campus meetings.
+- [Workshops](workshops/README.md). Notes from our on campus meetings.
 - [Code Challenges](code_challenges/README.md). Documentated solutions of
 coding problems for pages like leetcode.
 - [Resources](resources/README.md). Compilation of learning resources.

@@ -3,11 +3,11 @@
 <!-- based on template v0.0 -->
 
 <!-- Objectives
-- Define the structure that lectures must adhere to.
-- Explain each part of the structure of a lecture.
+- Define the structure that workshops must adhere to.
+- Explain each part of the structure of a workshop.
 -->
 
-# Lecture Template
+# Workshop Template
 
 `1/Jan/1970`
 
