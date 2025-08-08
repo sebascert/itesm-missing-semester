@@ -33,11 +33,11 @@ make it easier to solve for maintainers:
 
 Please follow this steps for your pull request to be merged into the project:
 
-1. Check that the pull request you are uploading does not already exists, or
-   the targeted issue is still open with no pull request linked to it.
+1. Check that the pull request you are uploading does not already exists, or the
+   targeted issue is still open with no pull request linked to it.
 2. Be consistent with the formatting in the project.
-3. The git history must be clean and [commits](#commits) must be consistent
-   with the project style.
+3. The git history must be clean and [commits](#commits) must be consistent with
+   the project style.
 4. Make sure to validate the sources modified by using the scripts
    `devtools/format.sh` and `devtools/format.sh` before uploading your PR.
 
@@ -49,5 +49,5 @@ Commit messages are expected to be formatted with this style:
    least important, separated by and ending with `:`. example
    `category: sub1: sub2: message...`.
 
-2. Use an initial imperative verb examples: (fix, refactor, perf, test, build, ci,
-   revert).
+2. Use an initial imperative verb examples: (fix, refactor, perf, test, build,
+   ci, revert).

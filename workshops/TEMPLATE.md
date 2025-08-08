@@ -25,36 +25,42 @@ the explanations.
 -->
 
 <!--! title of the workshop -->
+
 # Workshop Template
 
 <!--! last modification date in day/month/year -->
+
 `1/Jan/1970`
 
---------------------------------------------------------------------------------
+---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua...
 
 <!--! categories must be formatted with '##' -->
+
 ## Subject Categories
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua...
 
 <!--! subsequent subcategories must be formatted with an additional '#' -->
+
 ### Subject Subcategories
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua...
 
---------------------------------------------------------------------------------
+---
 
 <!--! list of resources the workshop is based on -->
+
 ## Bibliography
 
 - ...
 
 <!--! list of additional resources related to the subject -->
+
 ## Additional Resources
 
 - ...
@@ -64,6 +70,7 @@ list of authors and mentions, intended only for the authors of the content of
 the workshops, not for authors of corrections. Authors must be listed with their
 desired name and github user, such as 'Author @github_user'
 -->
+
 ## Authors
 
 - ...
