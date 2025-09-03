@@ -10,7 +10,7 @@ The project provides many resources in various fields of CS, featuring:
 
 - [Workshops](workshops/README.md). Notes from our on campus meetings.
 - [Code Challenges](code_challenges/README.md). Documentated solutions of coding
-  problems for pages like leetcode.
+  problems from online platforms like leetcode.
 - [Resources](resources/README.md). Compilation of learning resources.
   - [Tools](resources/tools/README.md). Programmer tools.
 
