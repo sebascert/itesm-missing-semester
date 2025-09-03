@@ -1,0 +1,16 @@
+name: Markdown Integrity
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - "**.md"
+
+jobs:
+  formatting:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v2
