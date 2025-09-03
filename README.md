@@ -9,8 +9,8 @@ Science education. Inspired by
 The project provides many resources in various fields of CS, featuring:
 
 - [Workshops](workshops/README.md). Notes from our on campus meetings.
-- [Code Challenges](code_challenges/README.md). Documentated solutions of coding
-  problems for pages like leetcode.
+- [Algorithmic Problems](algorithmic_problems/README.md). Documented solutions
+  of problems from online platforms such as leetcode.
 - [Resources](resources/README.md). Compilation of learning resources.
   - [Tools](resources/tools/README.md). Programmer tools.
 

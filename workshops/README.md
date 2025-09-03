@@ -4,6 +4,8 @@ This section contains workshop notes from our on campus meetings, the workshops
 aim to provide an introduction to diverse topics in CS, referencing resources
 for further learning them, and providing practice exercises.
 
+## Contributing
+
 If you wish to contribute with a new workshop, please create a pull request with
 the workshop notes, and describe in it the aims and plans for the presentation
 on campus.
