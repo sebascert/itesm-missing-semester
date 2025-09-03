@@ -6,16 +6,24 @@ resources, or solve an open issue please upload a [pull request](#pull-request).
 
 ## Devtools
 
-Devtools can be installed with the `devtools/install.sh` script for bash
-environments, for windows check the installation guides for each tool, the
-versions used are in `devtools/install.sh`.
+Most devtools can be installed with the `devtools/install.sh` script for bash
+environments, installation guides for each tool devtools not installed with the
+script or for windows environments, the versions used are in
+`devtools/install.sh`.
 
-- [dprint](https://dprint.dev/). Formats markdown sources and code snippets
-  inside them.
+The scripts `devtools/format.sh` and `devtools/check.sh` correspondingly formats
+the sources and check that devtools don't output any errors.
+
+- [dprint](https://dprint.dev/). Framework for formatting multiple sources from
+  a single entry point, also formats markdown code snippets.
   - [installation guide](https://dprint.dev/install/)
 - [lychee](https://github.com/lycheeverse/lychee). Validates links in markdown
   sources.
   - [installation guide](https://github.com/lycheeverse/lychee?tab=readme-ov-file#installation)
+- [clang-format](https://clang.llvm.org/docs/ClangFormat.html). Formats C/CPP
+  sources.
+  - Best to look for a tutorial on your platform. Not required unless working on
+    C/CPP.
 
 ## Issues
 
@@ -39,7 +47,9 @@ Please follow this steps for your pull request to be merged into the project:
 3. The git history must be clean and [commits](#commits) must be consistent with
    the project style.
 4. Make sure to validate the sources modified by using the scripts
-   `devtools/format.sh` and `devtools/format.sh` before uploading your PR.
+   `devtools/format.sh` and `devtools/check.sh` before uploading your PR.
+5. Fix PR Check errors if they come up, no PR will get merged with failing
+   checks.
 
 ## Commits
 

@@ -4,6 +4,7 @@ set -e
 
 dprint_version='^0.50'
 lychee_version='^0.19'
+clang_format_version='^18'
 
 # Check rust toolchain
 if ! command -v cargo >/dev/null; then
