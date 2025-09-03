@@ -50,6 +50,11 @@ Please follow this steps for your pull request to be merged into the project:
    `devtools/format.sh` and `devtools/check.sh` before uploading your PR.
 5. Fix PR Check errors if they come up, no PR will get merged with failing
    checks.
+6. Check regularly the feedback and change requests posted until the PR gets
+   succesfully merged.
+7. Whenever the PR conflicts with the target branch, DO NOT merge it back,
+   please rebase your PR branch into the new target one, and solve the conflicts
+   on your end.
 
 ## Commits
 
