@@ -7,6 +7,7 @@ videos, courses, articles, books, documentation, etc.
 
 ## Categories
 
+- [Math](math/README.md). Math for Computer Science.
 - [Tools](tools/README.md). Programmer tools.
 
 ## Contributing
