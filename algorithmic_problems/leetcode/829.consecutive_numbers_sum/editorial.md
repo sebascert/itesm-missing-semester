@@ -11,12 +11,12 @@ input size.
 An optimization would be to use a sliding window algorithm which can optimize
 the search complexity down to $O(n)$, by comparing the sum of a dynamic window
 increasing to the right when $sum < n$ and decreasing froom the left when $sum >
-n$, finally we would only need to count every ocurrence of $sum = n$. This
+n$, finally we would only need to count every occurrence of $sum = n$. This
 approach it's still far from optimal as $n$ a is very large number.
 
 ### Sum Decomposition (sol1)
 
-In order to optimze the solution we need to analize it mathematically, notice
+In order to optimize the solution we need to analyze it mathematically, notice
 that the sum of consecutive numbers has a closed form which derives from the
 gaussian sum.
 
